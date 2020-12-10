@@ -18,8 +18,8 @@ h1 {
 h2 {
   font-family: indie flower, arial, sans-serif;
   text-align: right;
-  margin-right: 25%;
-  margin-top: -5%;
+  margin-right: 26%;
+  margin-top: -25px;
 }
 
 h3 {
@@ -68,18 +68,18 @@ li a:hover {
 }
 
 .forside {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 170px;
+  padding-right: 220px;
   line-height: 1.5;
 }
 
 div.flex-container {
-  border: 1px solid black;
   padding: 25px 50px 75px 100px;
   background-color: #95D8F5;
   background: rgba(149, 216, 245, 0.3);
   margin-left: 5%;
   margin-right: 5%;
+  margin-top: 15px;
 }
 
 div.flex-container p {
@@ -177,13 +177,13 @@ h6 {
 }
 
 .ps1 {
-  width: 800px;
-  height: 600px;
+  width: 600px;
+  height: 400px;
 }
 
 .ps2 {
-  width: 800px;
-  height: 600px;
+  width: 600px;
+  height: 400px;
 }
 
 /* om mig */
@@ -222,6 +222,7 @@ h6 {
   float: left;
   width: 20%;
   padding: 5px;
+  margin-top: 15px;
 }
 
 .row::after {
@@ -279,6 +280,7 @@ input[type=submit]:hover {
 
 .copy {
   font-family: helvetica, sans-serif;
+  margin-left: 5%;
 }
 
 .kontakt {
